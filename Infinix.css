@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+span{
+    display: 10px;
+    display: inline-table;
+    top: 0;
+    bottom: 0;
+    margin-left: 100px;
+}
+.a-section img{
+    width: 20px;
+    height:20px;
+padding-top: 10px;
+font-weight: 900;
+}
+.A-section button{
+    padding: 1px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid rgb(31, 197, 161);
+    color: rgba(71, 124, 223, 0.623);
+    
+}
+.B-section{
+    padding-top: 50px;
+    margin-left: 500px;
+}
+.B-section h3{
+    padding: 4px;
+    font-weight: bold;
+    font-size: 35px;
+}
+.b-section{
+    padding-top: 20px;
+    margin-left:520px ;
+}
+.b-section p{
+    font-size: 12px;
+}
+.C-section{
+    padding-top: 20px;
+    margin-left: 570px;
+}
+.C-section button{
+    padding: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: rgb(42, 69, 223);
+    color: white;
+    border: 1px solid rgb(189, 51, 97);
+
+    }
+
+
+.D-section ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex; 
+    flex-wrap: wrap; 
+}
+
+.D-section li {
+    margin: 10px; 
+}
+
+.D-section img {
+    display: inline-block;
+}
+
+.image1 {
+    width: 100px; 
+    height: 120px;
+    border-radius: 100px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.image2 {
+    width: 100px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+.image3 {
+    width: 200px;
+    height: 300px;
+    border-radius: 100px;
+    height: 50vh;
+}
+
+.image4 {
+    width: 100px; 
+    height: 200px;
+    border-radius: 100px;
+}
+
+.image5 {
+    width: 100px; 
+    height: 120px; 
+    border-radius: 100px;
+    margin-top: 10px;
+}
+.C-section{
+    front size: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

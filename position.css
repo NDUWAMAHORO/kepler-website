@@ -1,0 +1,21 @@
+h1{
+    background-color: chocolate;
+    width: 100%;
+    border: 50px;
+    padding: 50px;
+    position: sticky;
+    top: 0%;
+}
+li{
+    color: chartreuse;
+    border-radius: 50px;
+    padding: 5px;
+}
+.scor-to-top{
+    background-color: blue;
+    position: fixed;
+    bottom: 0%;
+    right: 50px;
+    padding: 10px;
+    border-radius: 10px;
+}

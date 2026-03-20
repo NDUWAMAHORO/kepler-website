@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<meta charset="=UTF-8">
+<meta name="viewport">
+<body>
+    <style>
+        ol{
+            list-style: circle;
+        }
+        ul{
+            list-style: square;
+        }
+        h1{
+            color: chocolate;
+        }
+        ul{
+            list-style-type: none;
+        }
+        ul li::before{
+            content: "✔";
+            color: rgb(102, 228, 30);
+        }
+    </style>
+    <h1>Ordered</h1>
+    <ol>
+        <li>Burundi</li>
+        <li>Rwanda</li>
+        <li>Congo</li>
+        <li>Kenya</li>
+        <li>Tanzania</li>
+    </ol>
+    <h1>Unordered</h1>
+    <ul>
+        <li>Mahama</li>
+        <li>Rwamagana</li>
+        <li>Byumba</li>
+        <li>Kigali</li>
+    </ul>
+    <h1>Description list</h1>
+    <dl>
+        <dt>photosenthesis</dt>
+        <dd>is a process by which plants make food from sun</dd>
+        <dt>Osmosis</dt>
+        <dd>Movement of particles from a region of high concentration to low concentration</dd>
+    </dl>
+    <h1>Nested lists</h1>
+        <ol>
+            <li>Carbohydrates</li>
+            <ul>
+            <li>Beans</li>
+            <li>Oranges</li>  
+            </ul>
+
+            <li>Proteins</li>
+                <ul>
+            <li>Eggs</li>
+            <li>Meat and fish</li>   
+            </ul>
+
+        </ol>
+</body>
+</html>

@@ -1,0 +1,41 @@
+
+ul{
+    list-style-type: none;
+    margine: 10px;
+    padding: 2px;
+    overflow: hidden;
+    background-color: #d12424;
+}
+li{
+    float: down;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    text-decoration: right;
+}
+ul{
+    list-style-type: lower-roman;
+    padding: 10px;
+    color: blue;
+    display: flex;
+    margin-left: 50px;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(17, 167, 109);
+    padding: 10px;
+    
+}
+ul li a:hover{
+    background-color: rgb(148, 16, 56);
+
+}
+h2{
+    color: #d12424;
+}
+h1{
+    color: chartreuse;
+}
+ul li{
+    size-adjust: 5px;
+}

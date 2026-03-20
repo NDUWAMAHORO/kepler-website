@@ -1,0 +1,38 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border-bottom: 1px solid #ccc;
+    padding: 5px;
+    text-align: justify;
+}
+tr:nth-child(even){
+    background-color: antiquewhite;
+}
+img{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+#j{
+    background-color: blue;
+    border-radius: 5px;
+    border: 20px;
+    width: 50%;
+}
+#p{
+    background-color: rgb(147, 241, 40);
+    border-radius: 5px;
+    border: 20px;
+    width: 50%;
+}
+#k{
+    background-color: crimson;
+    border-radius: 5px;
+    border: 20px;
+    width: 50%;
+}
+h2{
+    color: rgb(199, 57, 152);
+}
